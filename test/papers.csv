@@ -1,0 +1,102 @@
+title;doi;year;runtime;process
+Dynamic job shop scheduling based on deep reinforcement learning for multi-agent manufacturing systems;https://doi.org/10.1016/j.rcim.2022.102412;2022;"machine type
+buffer length; health status of all workshop machine
+";"order; workpiece tasks
+workpiece task; operation types; expected completion time;  order urgency"
+Multi-Objective Flexible Job Shop Scheduling Using Genetic Algorithms;https://doi.org/10.17559/TV-20211022164333;2022;machine capabilities;"processing times; operation sequence"
+Multi-Agent Reinforcement Learning for Real-Time Dynamic Production Scheduling in a Robot Assembly Cell;https://doi.org/10.1109/LRA.2022.3184795;2022;"robot status; conveyor status; number of pending operations; incoming products";"processing times; required operations; operation sequence"
+Reinforcement Learning-based Scheduling of a Job-Shop Process with Distributedly Controlled Robotic Manipulators for Transport Operations;https://doi.org/10.1016/j.ifacol.2022.04.186;2022;"status; point in trajectory";operation sequence
+A unified view on planning, scheduling and dispatching for a factory;https://doi.org/10.1016/j.aei.2020.101188;2020;;"The objective of scheduling (i.e.; the original problem) is to find the
+optimal job dispatching sequence to satisfy the committed date"
+A hybrid genetic algorithm for the job shop scheduling problem;https://doi.org/10.1016/j.ejor.2004.03.012;2005;;
+A hybrid shifting bottleneck procedure algorithm for the parallel-machine job-shop scheduling problem;https://doi.org/10.1057/jors.2011.4;2012;;"job; machines; processing time; operation"
+A hybrid genetic tabu search algorithm for solving job shop scheduling problems: a case study;https://doi.org/10.1007/s10845-011-0520-x;2012;;"job; machines; sequence position of operations in a job; starting time; processing time; max makespan"
+Digital-Twin-Based Job Shop Scheduling Toward Smart Manufacturing;10.1109/TII.2019.2938572;2019;"Running data; operators data";Task data
+Dynamic job-shop scheduling in smart manufacturing using deep reinforcement learning;https://doi.org/10.1016/j.comnet.2021.107969;2021;Machine utilization;Select operations for processing to idle machines
+An effective backtracking search algorithm for multi-objective flexible job shop scheduling considering new job arrivals and energy consumption;https://doi.org/10.1016/j.cie.2020.106863;2020;"Machine state; Energy profile of a machine : Processing energy; idle energy ; Switching energy- Total energy comsumption";"Jobs; sequential operations"
+An improved genetic algorithm for the flexible job shop scheduling problem with multiple time constraints;https://doi.org/10.1016/j.swevo.2020.100664;2020;;"jobs; machines; operation processed on machine; permisible start time; processing start time; completion time; end time; setup time; transportation time; makespan time"
+A Monte-Carlo tree search algorithm for the flexible job-shop scheduling in manufacturing systems;https://doi.org/10.1007/s10696-021-09437-4;2022;"machine capabilities; machine status; processing time; machine availability";"Jobs; operations with priorities"
+A Review of Reinforcement Learning Based Intelligent Optimization for Manufacturing Scheduling;10.23919/CSMS.2021.0027;2022;;
+Collaborative routing of products using a self-organizing mechatronic agent framework-A simulation study;https://doi.org/10.1016/j.compind.2014.12.003;2015;"Maximum capacity of transport element;
+Content of the transport element
+
+";"Next item to be disptached;
+Destination of the item;
+Status of the item being dispatched;
+Preparedness of the next item;
+Set of neighbouring; transport  elements to where the current transport elements could dispatch."
+A self-organized approach for scheduling semiconductor manufacturing systems;https://doi.org/10.1007/s10845-020-01678-8;2021;"On-time delivery rate (ODR);  movement (MOV) of the WIP
+";"job processing time; work in progress (WIP) in the queue; machines? availability"
+ORCA-FMS: A dynamic architecture for the optimized and reactive control of flexible manufacturing scheduling;https://doi.org/10.1016/j.compind.2014.02.005;2014;Processing time of the operation h of the job j;"Set of jobs; 
+Set of machines;
+Set of operations of the job;
+Value of the transportation time between machine i and machine x;
+Maximum simultaneous job in the shop floor"
+Learning to Dispatch for Job Shop Scheduling via Deep Reinforcement Learning;;2020;"Operation time; processing time of jobs";
+A Q-Learning algorithm for flexible job shop scheduling in a real-world manufacturing scenario;;2022;"Image of workspace; robot parameters; job processing time";
+Towards Standardising Reinforcement Learning Approaches for Production Scheduling Problems;;2022;job processing time;
+A reinforcement learning approach for the flexible job shop scheduling problem;https://doi.org/10.1007/978-3-642-25566-3_19;2011;multiple machines for the same operation with similar processing times;"For each operation; choose a machine"
+Dynamic scheduling in a job-shop production system with reinforcement learning;https://doi.org/10.1016/j.procir.2020.05.210;2021;;"sequence of operations;"
+A reinforcement learning approach to parameter estimation in dynamic job shop scheduling;https://doi.org/10.1016/j.cie.2017.05.026;2017;;
+Solving flexible job shop scheduling problems in manufacturing with Quantum Annealing;10.1007/s11740-022-01145-8;2022;; Makespan/Computing time (s)
+A Radial Estimation-of-Distribution Algorithm for the Job-Shop Scheduling Problem;10.4018/IJAMC.292519;2022;;Makespan time
+"Flexible job-shop scheduling with release dates, deadlines and
+sequence dependent setup times: a real-world case";10.1016/j.procs.2022.01.366;2022;;runtime
+;;;;
+A distributed approach solving partially flexible job-shop scheduling problem with a Q-learning effect;https://doi.org/10.1016/j.ifacol.2017.08.2354;2017;"Dispatching Rules are: First in First Out (FIFO); Shortest Job First (SJF); Highest Priority First (HPF) ; Last In First Out (LIFO)";"The IP focuses on a local objective; the weighted average waiting time (WAWT)"
+Dynamic scheduling in a job-shop production system with reinforcement learning;https://doi.org/10.1016/j.procir.2020.05.210;2021;"Processing ; Setup times on each SP (machine)";
+"Machine learning and optimization for production rescheduling in Industry 4.0
+";https://doi.org/10.1007/s00170-020-05850-5;2020;"Set of machines;
+Completion time of operation i  operated on machine k;
+
+";"Set of jobs;
+Set of operations of job"
+Edge computing-based real-time scheduling for digital twin flexible job shop with variable time window;https://doi.org/10.1016/j.rcim.2022.102435;2023;"Set of machines;
+Completion time of operation i  operated on machine k;
+ idle power of machine k;
+";"Set of jobs;
+Set of operations of job"
+A self-learning genetic algorithm based on reinforcement learning for flexible job-shop scheduling problem;https://doi.org/10.1016/j.cie.2020.106778;2020;;" set of jobs; set of machines; set of operations; start time of operation in machine; processin time of operation; order of precedence between operations"
+An effective MCTS-based algorithm for minimizing makespan in dynamic flexible job shop scheduling problem;https://doi.org/10.1016/j.cie.2021.107211;2021;machine breakdown;"set of machines; set of jobs; set of operations; processing time of operations; jobs arrival; jobs cancellation; time between jobs arrival; time between jobs cancellation"
+A heuristic model for dynamic flexible job shop scheduling problem considering variable processing times;https://doi.org/10.1080/00207543.2018.1524165;2019;;"set of machines; set of jobs; set of operations; start time of operation; processin time of operation; finishing time of operation; completion time of job"
+Manual Task Completion Time Estimation for Job Shop Scheduling Using a Fuzzy Inference System;https://doi.org/10.1109/iThings-GreenCom-CPSCom-SmartData.2017.26;2018;;"object size; the task complexity; the number of parts; the total glue length; the number of applications of glue; the number of stables; and the number of folds. The"
+"An improved differential evolution algorithm for solving a distributed
+assembly flexible job shop scheduling problem";https://doi.org/10.1007/s12293-018-00278-7;2018;"tardiness;machine status;  current load;condition of the factory";"processing time; cost of factory; assembly time of product; due date of product"
+Biased random-key genetic algorithm for cobot assignment in an assembly/disassembly job shop scheduling problem;https://doi.org/10.1016/j.procs.2021.01.170;2021;production speed;production costs and times
+EMOGA: A Hybrid Genetic Algorithm With Extremal Optimization Core for Multiobjective Disassembly Line Balancing;https://doi.org/10.1109/TII.2017.2778223;2018;;
+Job rotation and human?robot collaboration for enhancing ergonomics in assembly lines by a genetic algorithm;https://doi.org/10.1007/s00170-021-08068-1;2021;;"load; distance from ground; grade of walking surface; speed; horizontal movement; cycle time?"
+Productivity and ergonomic risk in human based production systems: A job-rotation scheduling model;https://doi.org/10.1016/j.ijpe.2015.06.017;2016;;"task completion times of all tasks;
+categories of operators;
+desirable production output;
+ergonomic risk constraints;"
+Task scheduling based on deep reinforcement learning in a cloud manufacturing environment;https://doi.org/10.1002/cpe.5654;2020;;
+Dynamic scheduling of manufacturing systems: a product-driven approach using hyper-heuristics;https://doi.org/10.1080/0951192X.2021.1925969;2022;"
+Family of product;
+Priority of product;
+Processing time of a product from family;
+Setup time of a product from family;";"Set of products;
+Set of products families;
+Set of resources;
+Set of product families that can be processed by x resource;
+Breakdown duration on resource;"
+A hybrid differential evolution algorithm for flexible job shop scheduling with outsourcing operations and job priority constraints;https://doi.org/10.1016/j.eswa.2022.117182;2022;"
+";"preparation time ;
+processing time;
+jobs;
+start time of job;
+delivery time of job; 
+priority of job;
+quantity of job; 
+workshop number of job; 
+operations;"
+Actor-critic deep reinforcement learning for solving job shop scheduling problems;10.1109/ACCESS.2020.2987820;2020;;
+Solving job scheduling problems in a resource preemption environment with multi-agent reinforcement learning;https://doi.org/10.1016/j.rcim.2022.102324;2022;;
+Flexible Job-Shop Scheduling with Changeover Priorities;10.1007/978-3-030-95467-3_44;2022;idle time;Makespan time
+Job Shop Scheduling with Transport by Automated Guided Vehicles;10.1007/978-3-030-87869-6_75;2022;;"minimal cycle time; makespan time"
+A new neighbourhood structure for job shop scheduling problems;10.1080/00207543.2022.2060772;2022;;Makespan time
+Context-aware scheduling and control architecture for cyber-physical production systems;https://doi.org/10.1016/j.jmsy.2022.01.008;2022;"Decision vector; target vector; objective; context infomration; order change; operation failure; machine breakdown";"order change; machine failure"
+"Context-aware Multi-data Fusion to Achieve Finest Ride-share Schedule Using Big Data
+";10.1088/1757-899X/1074/1/012013;2021;"Priority; Preference";
+Towards Context-aware Workflows;https://doi.org/10.1016/j.procir.2014.10.052;2014;contextualisation;contextualisation
+Multi-Agent Context-Aware Dynamic-Scheduling for Large-scale Processing Networks;10.1109/ETFA46521.2020.9211951;2020;;
+Towards a Role-centric and Context-aware Information Distribution System for Manufacturing;10.1016/j.procir.2014.10.052;fle;;

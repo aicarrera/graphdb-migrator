@@ -1,0 +1,16 @@
+id,name,value
+23,role,supervisor
+26,role,doctoral student
+21,role,associated teacher
+9,role,coordinator
+25,role,administrative
+27,role,undergraduate
+41,shift,t1
+42,shift,t2
+30,dayofweek,0
+31,dayofweek,1
+32,dayofweek,2
+33,dayofweek,3
+34,dayofweek,4
+35,dayofweek,5
+36,dayofweek,6

@@ -1,0 +1,41 @@
+event_name,event_date,date_timestamp,event_timestamp,ga_session_id,event_label,page_path,int_value,page_location,value,user_id,dayofweek,hour
+page_view,20230602,2023-06-02 15:34:51.883026 UTC,1685720091883026,1685717121,,,,http://34.175.76.43:3000/main?userid=Yx3rQ&role=doctoral+student&on=true,,Yx3rQ,6,15
+page_view,20230602,2023-06-02 15:42:33.530547 UTC,1685720553530547,1685718528,,,,http://34.175.76.43/,,D3m1j,6,15
+page_view,20230602,2023-06-02 15:42:33.530547 UTC,1685720553530547,1685718528,,/index,,http://34.175.76.43/,jcume,D3m1j,6,15
+page_view,20230602,2023-06-02 15:42:37.134024 UTC,1685720557134024,1685718528,,/main,,http://34.175.76.43/main?userid=D3m1j&role=supervisor&on=true,"t2, supervisor, 4, cortado",D3m1j,6,15
+page_view,20230602,2023-06-02 18:55:15.194588 UTC,1685732115194588,1685732113,,,,http://34.175.76.43/,,u8wCz,6,18
+page_view,20230602,2023-06-02 18:55:15.194684 UTC,1685732115194684,1685732113,,/index,,http://34.175.76.43/,dburbano,u8wCz,6,18
+page_view,20230602,2023-06-02 18:55:19.393027 UTC,1685732119393027,1685732113,,/main,,http://34.175.76.43/main?userid=u8wCz&role=supervisor&on=true,"t2, supervisor, 4, expresso",u8wCz,6,18
+page_view,20230602,2023-06-02 18:55:24.383175 UTC,1685732124383175,1685732113,,,,http://34.175.76.43:3000/main?userid=u8wCz&role=supervisor&on=true,,u8wCz,6,18
+Btn4sugarinc_click,20230602,2023-06-02 18:55:50.759645 UTC,1685732150759645,1685732113,,,1,http://34.175.76.43/main?userid=u8wCz&role=supervisor&on=true,,u8wCz,6,18
+Btn5yes_long_coffee_click,20230602,2023-06-02 18:56:02.051268 UTC,1685732162051268,1685732113,"{""Service"":""long_coffee"",""information"":[{""parameter"":""sugar"",""value"":2}]}",,1,http://34.175.76.43/main?userid=u8wCz&role=supervisor&on=true,,u8wCz,6,18
+page_view,20230602,2023-06-02 18:56:02.051268 UTC,1685732162051268,1685732113,,/main,,http://34.175.76.43/main?userid=u8wCz&role=supervisor&on=true,"t2, supervisor, 4, expresso",u8wCz,6,18
+Btn1ok_click,20230602,2023-06-02 18:56:08.592640 UTC,1685732168592640,1685732113,"{""Service"":""long_coffee"",""information"":[{""parameter"":""sugar"",""value"":2}]}",,1,http://34.175.76.43/main?userid=u8wCz&role=supervisor&on=true,,u8wCz,6,18
+page_view,20230602,2023-06-02 18:56:13.632778 UTC,1685732173632778,1685732113,,,,http://34.175.76.43:3000/,,u8wCz,6,18
+page_view,20230602,2023-06-02 18:56:19.664186 UTC,1685732179664186,1685732113,,/index,,http://34.175.76.43/,dburbano,u8wCz,6,18
+page_view,20230602,2023-06-02 18:56:19.664186 UTC,1685732179664186,1685732113,,/main,,http://34.175.76.43/main?userid=u8wCz&role=supervisor&on=true,"t2, supervisor, 4, long_coffee",u8wCz,6,18
+page_view,20230602,2023-06-02 18:56:20.303218 UTC,1685732180303218,1685732113,,,,http://34.175.76.43:3000/main?userid=u8wCz&role=supervisor&on=true,,u8wCz,6,18
+Tabpreparation_click,20230602,2023-06-02 18:56:25.311579 UTC,1685732185311579,1685732113,Preparation,,1,http://34.175.76.43/main?userid=u8wCz&role=supervisor&on=true,,u8wCz,6,18
+page_view,20230602,2023-06-02 18:56:25.311579 UTC,1685732185311579,1685732113,,/main,,http://34.175.76.43/main?userid=u8wCz&role=supervisor&on=true,"t2, supervisor, 4, long_coffee",u8wCz,6,18
+Btn1sugar_click,20230602,2023-06-02 18:56:35.728571 UTC,1685732195728571,1685732113,"{""service"":"""",""information"":[{""parameter"":""sugar"",""value"":""3""},{""parameter"":""cup"",""value"":""Yes""}]}",,1,http://34.175.76.43/main?userid=u8wCz&role=supervisor&on=true,,u8wCz,6,18
+Btn3sugarinc_click,20230602,2023-06-02 18:56:35.728571 UTC,1685732195728571,1685732113,,,1,http://34.175.76.43/main?userid=u8wCz&role=supervisor&on=true,,u8wCz,6,18
+Btn3sugardec_click,20230602,2023-06-02 18:56:35.728571 UTC,1685732195728571,1685732113,,,1,http://34.175.76.43/main?userid=u8wCz&role=supervisor&on=true,,u8wCz,6,18
+Btn1glass_click,20230602,2023-06-02 18:56:35.728571 UTC,1685732195728571,1685732113,"{""service"":"""",""information"":[{""parameter"":""sugar"",""value"":""2""},{""parameter"":""cup"",""value"":""Yes""}]}",,1,http://34.175.76.43/main?userid=u8wCz&role=supervisor&on=true,,u8wCz,6,18
+Btn2glass_click,20230602,2023-06-02 18:56:43.023282 UTC,1685732203023282,1685732113,,,1,http://34.175.76.43/main?userid=u8wCz&role=supervisor&on=true,,u8wCz,6,18
+Btn1drink_click,20230602,2023-06-02 18:56:43.023282 UTC,1685732203023282,1685732113,"{""service"":"""",""information"":[{""parameter"":""sugar"",""value"":""2""},{""parameter"":""cup"",""value"":""Yes""}]}",,1,http://34.175.76.43/main?userid=u8wCz&role=supervisor&on=true,,u8wCz,6,18
+Btn5capuccino_click,20230602,2023-06-02 18:56:55.235062 UTC,1685732215235062,1685732113,"{""service"":"""",""information"":[{""parameter"":""sugar"",""value"":""2""},{""parameter"":""cup"",""value"":""Yes""}]}",,1,http://34.175.76.43/main?userid=u8wCz&role=supervisor&on=true,,u8wCz,6,18
+Btn5capuccino_click,20230602,2023-06-02 18:56:55.235062 UTC,1685732215235062,1685732113,"{""service"":""capuccino"",""information"":[{""parameter"":""sugar"",""value"":""2""},{""parameter"":""cup"",""value"":""",,1,http://34.175.76.43/main?userid=u8wCz&role=supervisor&on=true,,u8wCz,6,18
+page_view,20230602,2023-06-02 18:57:09.504677 UTC,1685732229504677,1685732113,,/main,,http://34.175.76.43/main?userid=u8wCz&role=supervisor&on=true,"t2, supervisor, 4, long_coffee",u8wCz,6,18
+Btn1ok_click,20230602,2023-06-02 18:57:11.513126 UTC,1685732231513126,1685732113,"{""service"":""capuccino"",""information"":[{""parameter"":""sugar"",""value"":""2""},{""parameter"":""cup"",""value"":""",,1,http://34.175.76.43/main?userid=u8wCz&role=supervisor&on=true,,u8wCz,6,18
+page_view,20230602,2023-06-02 18:57:16.864084 UTC,1685732236864084,1685732113,,,,http://34.175.76.43:3000/,,u8wCz,6,18
+page_view,20230602,2023-06-02 19:19:59.522621 UTC,1685733599522621,1685733599,,,,http://34.175.76.43/,,D3m1j,6,19
+page_view,20230602,2023-06-02 19:19:59.523295 UTC,1685733599523295,1685733599,,/index,,http://34.175.76.43/,jcume,D3m1j,6,19
+page_view,20230602,2023-06-02 19:20:03.795513 UTC,1685733603795513,1685733599,,/main,,http://34.175.76.43/main?userid=D3m1j&role=supervisor&on=true,"t2, supervisor, 4, milk_coffee",D3m1j,6,19
+page_view,20230602,2023-06-02 19:20:09.641293 UTC,1685733609641293,1685733599,,,,http://34.175.76.43:3000/main?userid=D3m1j&role=supervisor&on=true,,D3m1j,6,19
+Btn4sugarinc_click,20230602,2023-06-02 19:20:35.653727 UTC,1685733635653727,1685733599,,,1,http://34.175.76.43/main?userid=D3m1j&role=supervisor&on=true,,D3m1j,6,19
+Btn4sugarinc_click,20230602,2023-06-02 19:20:45.222087 UTC,1685733645222087,1685733599,,,1,http://34.175.76.43/main?userid=D3m1j&role=supervisor&on=true,,D3m1j,6,19
+Btn5happy_chocolate_click,20230602,2023-06-02 19:21:09.648640 UTC,1685733669648640,1685733599,"{""Service"":""chocolate"",""information"":[{""parameter"":""sugar"",""value"":2}],""order"":3}",,1,http://34.175.76.43/main?userid=D3m1j&role=supervisor&on=true,,D3m1j,6,19
+Btn5yes_chocolate_click,20230602,2023-06-02 19:23:00.344976 UTC,1685733780344976,1685733599,"{""Service"":""chocolate"",""information"":[{""parameter"":""sugar"",""value"":2}]}",,1,http://34.175.76.43/main?userid=D3m1j&role=supervisor&on=true,,D3m1j,6,19
+page_view,20230602,2023-06-02 19:23:00.344976 UTC,1685733780344976,1685733599,,/main,,http://34.175.76.43/main?userid=D3m1j&role=supervisor&on=true,"t2, supervisor, 4, milk_coffee",D3m1j,6,19
+Btn1ok_click,20230602,2023-06-02 19:23:00.344976 UTC,1685733780344976,1685733599,"{""Service"":""chocolate"",""information"":[{""parameter"":""sugar"",""value"":2}]}",,1,http://34.175.76.43/main?userid=D3m1j&role=supervisor&on=true,,D3m1j,6,19
+page_view,20230602,2023-06-02 19:23:05.636347 UTC,1685733785636347,1685733599,,,,http://34.175.76.43:3000/,,D3m1j,6,19

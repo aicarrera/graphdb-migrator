@@ -1,0 +1,48 @@
+event_name,event_date,date_timestamp,event_timestamp,ga_session_id,event_label,page_path,int_value,page_location,value,user_id,dayofweek,hour
+page_view,20230317,2023-03-17 07:00:53.134231 UTC,1679036453134231,1679036008,,/index,,http://34.175.76.43/,aicarrera,Yx3rQ,6,7
+page_view,20230317,2023-03-17 07:00:53.134231 UTC,1679036453134231,1679036008,,,,http://34.175.76.43/,,Yx3rQ,6,7
+page_view,20230317,2023-03-17 07:00:56.405913 UTC,1679036456405913,1679036008,,/main,,http://34.175.76.43/main?userid=Yx3rQ&role=doctoral+student&on=true,"t2, doctoral student, 4, capuccino",Yx3rQ,6,7
+Btn5happy_cortado_click,20230317,2023-03-17 07:01:05.416976 UTC,1679036465416976,1679036008,"{""Service"":""cortado"",""information"":[{""parameter"":""sugar"",""value"":1}],""order"":2}",,1,http://34.175.76.43/main?userid=Yx3rQ&role=doctoral+student&on=true,,Yx3rQ,6,7
+Btn5happy_long_coffee_click,20230317,2023-03-17 07:01:05.416976 UTC,1679036465416976,1679036008,"{""Service"":""long_coffee"",""information"":[{""parameter"":""sugar"",""value"":1}],""order"":1}",,1,http://34.175.76.43/main?userid=Yx3rQ&role=doctoral+student&on=true,,Yx3rQ,6,7
+Btn5sad_decaffeinated_click,20230317,2023-03-17 07:01:10.880360 UTC,1679036470880360,1679036008,"{""Service"":""decaffeinated"",""information"":[{""parameter"":""sugar"",""value"":1}],""order"":3}",,-1,http://34.175.76.43/main?userid=Yx3rQ&role=doctoral+student&on=true,,Yx3rQ,6,7
+Btn5yes_long_coffee_click,20230317,2023-03-17 07:01:36.995796 UTC,1679036496995796,1679036008,"{""Service"":""long_coffee"",""information"":[{""parameter"":""sugar"",""value"":1}]}",,1,http://34.175.76.43/main?userid=Yx3rQ&role=doctoral+student&on=true,,Yx3rQ,6,7
+page_view,20230317,2023-03-17 07:01:36.995796 UTC,1679036496995796,1679036008,,/main,,http://34.175.76.43/main?userid=Yx3rQ&role=doctoral+student&on=true,"t2, doctoral student, 4, capuccino",Yx3rQ,6,7
+Btn1ok_click,20230317,2023-03-17 07:01:36.995796 UTC,1679036496995796,1679036008,"{""Service"":""long_coffee"",""information"":[{""parameter"":""sugar"",""value"":1}]}",,1,http://34.175.76.43/main?userid=Yx3rQ&role=doctoral+student&on=true,,Yx3rQ,6,7
+page_view,20230317,2023-03-17 07:01:42.885535 UTC,1679036502885535,1679036008,,,,http://34.175.76.43:3000/,,Yx3rQ,6,7
+page_view,20230317,2023-03-17 13:31:10.027595 UTC,1679059870027595,1679059869,,,,http://34.175.76.43/,,ws0cho3,6,13
+page_view,20230317,2023-03-17 13:31:14.993548 UTC,1679059874993548,1679059869,,/index,,http://34.175.76.43/,wsochoa,ws0cho3,6,13
+page_view,20230317,2023-03-17 13:31:14.993548 UTC,1679059874993548,1679059869,,/main,,http://34.175.76.43/main?userid=ws0cho3&role=doctoral+student&on=true,"t1, doctoral student, 4, capuccino",ws0cho3,6,13
+page_view,20230317,2023-03-17 13:31:20.406151 UTC,1679059880406151,1679059869,,,,http://34.175.76.43:3000/main?userid=ws0cho3&role=doctoral+student&on=true,,ws0cho3,6,13
+page_view,20230317,2023-03-17 13:41:58.342061 UTC,1679060518342061,1679060518,,,,http://34.175.76.43/,,larri45h,6,13
+page_view,20230317,2023-03-17 13:42:02.331005 UTC,1679060522331005,1679060518,,/index,,http://34.175.76.43/,flarrinaga ,larri45h,6,13
+page_view,20230317,2023-03-17 14:42:31.507381 UTC,1679064151507381,1679064150,,,,http://34.175.76.43/,,ws0cho3,6,14
+page_view,20230317,2023-03-17 14:42:31.507561 UTC,1679064151507561,1679064150,,/index,,http://34.175.76.43/,wsochoa,ws0cho3,6,14
+page_view,20230317,2023-03-17 14:42:45.025827 UTC,1679064165025827,1679064150,,/main,,http://34.175.76.43/main?userid=ws0cho3&role=doctoral+student&on=true,"t2, doctoral student, 4, long_coffee",ws0cho3,6,14
+page_view,20230317,2023-03-17 14:42:50.043129 UTC,1679064170043129,1679064150,,,,http://34.175.76.43:3000/main?userid=ws0cho3&role=doctoral+student&on=true,,ws0cho3,6,14
+Btn5yes_expresso_click,20230317,2023-03-17 14:42:58.869950 UTC,1679064178869950,1679064150,"{""Service"":""expresso"",""information"":[{""parameter"":""sugar"",""value"":0}]}",,1,http://34.175.76.43/main?userid=ws0cho3&role=doctoral+student&on=true,,ws0cho3,6,14
+Btn1ok_click,20230317,2023-03-17 14:42:58.869950 UTC,1679064178869950,1679064150,"{""Service"":""expresso"",""information"":[{""parameter"":""sugar"",""value"":0}]}",,1,http://34.175.76.43/main?userid=ws0cho3&role=doctoral+student&on=true,,ws0cho3,6,14
+page_view,20230317,2023-03-17 14:42:58.869950 UTC,1679064178869950,1679064150,,/main,,http://34.175.76.43/main?userid=ws0cho3&role=doctoral+student&on=true,"t2, doctoral student, 4, long_coffee",ws0cho3,6,14
+page_view,20230317,2023-03-17 14:43:03.875098 UTC,1679064183875098,1679064150,,,,http://34.175.76.43:3000/,,ws0cho3,6,14
+page_view,20230317,2023-03-17 14:45:24.404426 UTC,1679064324404426,1679064150,,/main,,http://34.175.76.43/main?userid=F96Kv&role=doctoral+student&on=true,"t2, doctoral student, 4, capuccino",ws0cho3,6,14
+page_view,20230317,2023-03-17 14:45:24.404426 UTC,1679064324404426,1679064150,,/index,,http://34.175.76.43/,nhneguyen,ws0cho3,6,14
+page_view,20230317,2023-03-17 14:45:29.857701 UTC,1679064329857701,1679064150,,,,http://34.175.76.43:3000/main?userid=F96Kv&role=doctoral+student&on=true,,ws0cho3,6,14
+Btn5meh_cortado_click,20230317,2023-03-17 14:45:46.596844 UTC,1679064346596844,1679064150,"{""Service"":""cortado"",""information"":[{""parameter"":""sugar"",""value"":1}],""order"":1}",,0,http://34.175.76.43/main?userid=F96Kv&role=doctoral+student&on=true,,ws0cho3,6,14
+Btn5meh_milk_coffee_click,20230317,2023-03-17 14:45:46.596844 UTC,1679064346596844,1679064150,"{""Service"":""milk_coffee"",""information"":[{""parameter"":""sugar"",""value"":1}],""order"":2}",,0,http://34.175.76.43/main?userid=F96Kv&role=doctoral+student&on=true,,ws0cho3,6,14
+Btn5yes_hazelnut_cappuccino_click,20230317,2023-03-17 14:45:46.596844 UTC,1679064346596844,1679064150,"{""Service"":""hazelnut_cappuccino"",""information"":[{""parameter"":""sugar"",""value"":0}]}",,1,http://34.175.76.43/main?userid=F96Kv&role=doctoral+student&on=true,,ws0cho3,6,14
+page_view,20230317,2023-03-17 14:45:46.596844 UTC,1679064346596844,1679064150,,/main,,http://34.175.76.43/main?userid=F96Kv&role=doctoral+student&on=true,"t2, doctoral student, 4, capuccino",ws0cho3,6,14
+Btn5happy_hazelnut_cappuccino_click,20230317,2023-03-17 14:45:46.596844 UTC,1679064346596844,1679064150,"{""Service"":""hazelnut_cappuccino"",""information"":[{""parameter"":""sugar"",""value"":0}],""order"":3}",,1,http://34.175.76.43/main?userid=F96Kv&role=doctoral+student&on=true,,ws0cho3,6,14
+Btn1ok_click,20230317,2023-03-17 14:45:49.162549 UTC,1679064349162549,1679064150,"{""Service"":""hazelnut_cappuccino"",""information"":[{""parameter"":""sugar"",""value"":0}]}",,1,http://34.175.76.43/main?userid=F96Kv&role=doctoral+student&on=true,,ws0cho3,6,14
+page_view,20230317,2023-03-17 14:45:54.198363 UTC,1679064354198363,1679064150,,,,http://34.175.76.43:3000/,,ws0cho3,6,14
+page_view,20230317,2023-03-17 14:46:48.000370 UTC,1679064408000370,1679064150,,,,http://34.175.76.43:3000/main?userid=F96Kv&role=doctoral+student&on=true,,ws0cho3,6,14
+page_view,20230317,2023-03-17 14:47:10.841014 UTC,1679064430841014,1679064150,,/main,,http://34.175.76.43/main?userid=F96Kv&role=doctoral+student&on=true,"t2, doctoral student, 4, milk_coffee",ws0cho3,6,14
+page_view,20230317,2023-03-17 14:57:54.428870 UTC,1679065074428870,1679065074,,,,http://34.175.76.43/,,Yx3rQ,6,14
+page_view,20230317,2023-03-17 14:57:54.429140 UTC,1679065074429140,1679065074,,/index,,http://34.175.76.43/,aicarrera,Yx3rQ,6,14
+page_view,20230317,2023-03-17 14:57:57.910692 UTC,1679065077910692,1679065074,,/main,,http://34.175.76.43/main?userid=Yx3rQ&role=doctoral+student&on=true,"t2, doctoral student, 4, expresso",Yx3rQ,6,14
+page_view,20230317,2023-03-17 14:58:02.913120 UTC,1679065082913120,1679065074,,,,http://34.175.76.43:3000/main?userid=Yx3rQ&role=doctoral+student&on=true,,Yx3rQ,6,14
+Btn5meh_cortado_click,20230317,2023-03-17 14:58:18.838788 UTC,1679065098838788,1679065074,"{""Service"":""cortado"",""information"":[{""parameter"":""sugar"",""value"":1}],""order"":2}",,0,http://34.175.76.43/main?userid=Yx3rQ&role=doctoral+student&on=true,,Yx3rQ,6,14
+Btn5meh_hazelnut_cappuccino_click,20230317,2023-03-17 14:58:18.838788 UTC,1679065098838788,1679065074,"{""Service"":""hazelnut_cappuccino"",""information"":[{""parameter"":""sugar"",""value"":0}],""order"":3}",,0,http://34.175.76.43/main?userid=Yx3rQ&role=doctoral+student&on=true,,Yx3rQ,6,14
+Btn5happy_long_coffee_click,20230317,2023-03-17 14:58:18.838788 UTC,1679065098838788,1679065074,"{""Service"":""long_coffee"",""information"":[{""parameter"":""sugar"",""value"":1}],""order"":1}",,1,http://34.175.76.43/main?userid=Yx3rQ&role=doctoral+student&on=true,,Yx3rQ,6,14
+Btn1ok_click,20230317,2023-03-17 14:58:22.958272 UTC,1679065102958272,1679065074,"{""Service"":""long_coffee"",""information"":[{""parameter"":""sugar"",""value"":1}]}",,1,http://34.175.76.43/main?userid=Yx3rQ&role=doctoral+student&on=true,,Yx3rQ,6,14
+Btn5yes_long_coffee_click,20230317,2023-03-17 14:58:22.958272 UTC,1679065102958272,1679065074,"{""Service"":""long_coffee"",""information"":[{""parameter"":""sugar"",""value"":1}]}",,1,http://34.175.76.43/main?userid=Yx3rQ&role=doctoral+student&on=true,,Yx3rQ,6,14
+page_view,20230317,2023-03-17 14:58:22.958272 UTC,1679065102958272,1679065074,,/main,,http://34.175.76.43/main?userid=Yx3rQ&role=doctoral+student&on=true,"t2, doctoral student, 4, expresso",Yx3rQ,6,14
+page_view,20230317,2023-03-17 14:58:27.963519 UTC,1679065107963519,1679065074,,,,http://34.175.76.43:3000/,,Yx3rQ,6,14

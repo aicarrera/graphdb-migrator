@@ -1,0 +1,158 @@
+;P;;\cite{Kardos_2021,Mossa_2016,Bouazza_2021,Li_2022}
+and the number of folds. the;P;;\cite{Yang_2017}
+assembly time of product;P;;\cite{Wu_2018}
+breakdown duration on resource;P;;\cite{Bouazza_2021}
+categories of operator;P;;\cite{Mossa_2016}
+choose a machine;P;;\cite{Mart_nez_2011}
+completion time;P;;\cite{Zhang_2020}
+completion time of job;P;;\cite{Shahgholi_Zadeh_2018}
+contextualisation;P;;\cite{Alexopoulos_2014}
+cost of factory;P;;\cite{Wu_2018}
+cycle time?;P;;\cite{Dalle_Mura_2021}
+delivery time of job;P;;\cite{Li_2022}
+desirable production output;P;;\cite{Mossa_2016}
+destination of the item;P;;\cite{Ribeiro_2015}
+distance from ground;P;;\cite{Dalle_Mura_2021}
+due date of product;P;;\cite{Wu_2018}
+end time;P;;\cite{Zhang_2020}
+ergonomic risk constraint;P;;\cite{Mossa_2016}
+expected completion time;P;;\cite{Zhang_2022}
+finishing time of operation;P;;\cite{Shahgholi_Zadeh_2018}
+for each operation;P;;\cite{Mart_nez_2011}
+grade of walking surface;P;;\cite{Dalle_Mura_2021}
+horizontal movement;P;;\cite{Dalle_Mura_2021}
+job;P;;\cite{Liu_2012,Meeran_2011,Caldeira_2020,Zhang_2020,Saqlain_2022,Li_2022}
+job processing time;P;;\cite{Yu_2020}
+jobs arrival;P;;\cite{Li_2021}
+jobs cancellation;P;;\cite{Li_2021}
+load;P;;\cite{Dalle_Mura_2021}
+machine;P;;\cite{Liu_2012,Meeran_2011,Zhang_2020}
+machine failure;P;;\cite{Wan_2022}
+machines? availability;P;;\cite{Yu_2020}
+makespan time;P;;\cite{Zhang_2020,P_rez_Rodr_guez_2022,Milne_2022,Smutnicki_2021,Xie_2022}
+makespan/computing time (s);P;;\cite{Schworm_2022}
+max makespan;P;;\cite{Meeran_2011}
+maximum simultaneous job in the shop floor;P;;\cite{Pach_2014}
+minimal cycle time;P;;\cite{Smutnicki_2021}
+next item to be disptached;P;;\cite{Ribeiro_2015}
+object size;P;;\cite{Yang_2017}
+operation;P;;\cite{Liu_2012,Li_2022}
+operation processed on machine;P;;\cite{Zhang_2020}
+operation sequence;P;;\cite{2022,Johnson_2022,Jungbluth_2022}
+operation type;P;;\cite{Zhang_2022}
+operations with prioritie;P;;\cite{Saqlain_2022}
+order;P;;\cite{Zhang_2022}
+order change;P;;\cite{Wan_2022}
+order of precedence between operation;P;;\cite{Chen_2020}
+order urgency;P;;\cite{Zhang_2022}
+permisible start time;P;;\cite{Zhang_2020}
+preparation time;P;;\cite{Li_2022}
+preparedness of the next item;P;;\cite{Ribeiro_2015}
+priority of job;P;;\cite{Li_2022}
+processin time of operation;P;;\cite{Chen_2020,Shahgholi_Zadeh_2018}
+processing start time;P;;\cite{Zhang_2020}
+processing time;P;;\cite{2022,Johnson_2022,Liu_2012,Meeran_2011,Wu_2018,Li_2022}
+processing time of operation;P;;\cite{Li_2021}
+production costs and time;P;;\cite{Kinast_2021}
+quantity of job;P;;\cite{Li_2022}
+required operation;P;;\cite{Johnson_2022}
+runtime;P;;\cite{Winklehner_2022}
+select operations for processing to idle machine;P;;\cite{Wang_2021}
+sequence of operation;P;;\cite{Kardos_2021}
+sequence position of operations in a job;P;;\cite{Meeran_2011}
+sequential operation;P;;\cite{Caldeira_2020}
+set of job;P;;\cite{Pach_2014,Li_2020,Wang_2023,Chen_2020,Li_2021,Shahgholi_Zadeh_2018}
+set of machine;P;;\cite{Pach_2014,Chen_2020,Li_2021,Shahgholi_Zadeh_2018}
+set of neighbouring;P;;\cite{Ribeiro_2015}
+set of operation;P;;\cite{Chen_2020,Li_2021,Shahgholi_Zadeh_2018}
+set of operations of job;P;;\cite{Li_2020,Wang_2023}
+set of operations of the job;P;;\cite{Pach_2014}
+set of product;P;;\cite{Bouazza_2021}
+set of product families that can be processed by x resource;P;;\cite{Bouazza_2021}
+set of products familie;P;;\cite{Bouazza_2021}
+set of resource;P;;\cite{Bouazza_2021}
+setup time;P;;\cite{Zhang_2020}
+speed;P;;\cite{Dalle_Mura_2021}
+start time of job;P;;\cite{Li_2022}
+start time of operation;P;;\cite{Shahgholi_Zadeh_2018}
+start time of operation in machine;P;;\cite{Chen_2020}
+starting time;P;;\cite{Meeran_2011}
+status of the item being dispatched;P;;\cite{Ribeiro_2015}
+task completion times of all task;P;;\cite{Mossa_2016}
+task data;P;;\cite{Fang_2019}
+the ip focuses on a local objective;P;;\cite{Bouazza_2017}
+the number of applications of glue;P;;\cite{Yang_2017}
+the number of part;P;;\cite{Yang_2017}
+the number of stable;P;;\cite{Yang_2017}
+the objective of scheduling (i.e.;P;;\cite{Wu_2020}
+the original problem) is to find the optimal job dispatching sequence to satisfy the committed date;P;;\cite{Wu_2020}
+the task complexity;P;;\cite{Yang_2017}
+the total glue length;P;;\cite{Yang_2017}
+the weighted average waiting time (wawt);P;;\cite{Bouazza_2017}
+time between jobs arrival;P;;\cite{Li_2021}
+time between jobs cancellation;P;;\cite{Li_2021}
+transport  elements to where the current transport elements could dispatch.;P;;\cite{Ribeiro_2015}
+transportation time;P;;\cite{Zhang_2020}
+value of the transportation time between machine i and machine x;P;;\cite{Pach_2014}
+work in progress (wip) in the queue;P;;\cite{Yu_2020}
+workpiece tasks workpiece task;P;;\cite{Zhang_2022}
+workshop number of job;P;;\cite{Li_2022}
+;r;;\cite{Li_2020,Wang_2023,Bouazza_2021,Li_2022}
+completion time of operation i  operated on machine k;r;;\cite{Li_2020,Wang_2023}
+condition of the factory;r;;\cite{Wu_2018}
+content of the transport element;r;;\cite{Ribeiro_2015}
+context infomration;r;;\cite{Wan_2022}
+contextualisation;r;;\cite{Alexopoulos_2014}
+conveyor status;r;;\cite{Johnson_2022}
+current load;r;;\cite{Wu_2018}
+decision vector;r;;\cite{Wan_2022}
+dispatching rules are: first in first out (fifo);r;;\cite{Bouazza_2017}
+energy profile of a machine : processing energy;r;;\cite{Caldeira_2020}
+family of product;r;;\cite{Bouazza_2021}
+health status of all workshop machine;r;;\cite{Zhang_2022}
+highest priority first (hpf);r;;\cite{Bouazza_2017}
+idle energy;r;;\cite{Caldeira_2020}
+idle power of machine k;r;;\cite{Wang_2023}
+idle time;r;;\cite{Milne_2022}
+image of workspace;r;;\cite{}
+incoming products;r;;\cite{Johnson_2022}
+job processing time;r;;\cite{,}
+last in first out (lifo);r;;\cite{Bouazza_2017}
+machine availability;r;;\cite{Saqlain_2022}
+machine breakdown;r;;\cite{Li_2021,Wan_2022}
+machine capabilities;r;;\cite{2022,Saqlain_2022}
+machine state;r;;\cite{Caldeira_2020}
+machine status;r;;\cite{Saqlain_2022,Wu_2018}
+machine type buffer length;r;;\cite{Zhang_2022}
+machine utilization;r;;\cite{Wang_2021}
+maximum capacity of transport element;r;;\cite{Ribeiro_2015}
+movement (mov) of the wip;r;;\cite{Yu_2020}
+multiple machines for the same operation with similar processing times;r;;\cite{Mart_nez_2011}
+number of pending operations;r;;\cite{Johnson_2022}
+objective;r;;\cite{Wan_2022}
+on-time delivery rate (odr);r;;\cite{Yu_2020}
+operation failure;r;;\cite{Wan_2022}
+operation time;r;;\cite{}
+operators data;r;;\cite{Fang_2019}
+order change;r;;\cite{Wan_2022}
+point in trajectory;r;;\cite{Jungbluth_2022}
+preference;r;;\cite{Potluri_2021}
+priority;r;;\cite{Potluri_2021}
+priority of product;r;;\cite{Bouazza_2021}
+processing;r;;\cite{Kardos_2021}
+processing time;r;;\cite{Saqlain_2022}
+processing time of a product from family;r;;\cite{Bouazza_2021}
+processing time of jobs;r;;\cite{}
+processing time of the operation h of the job j;r;;\cite{Pach_2014}
+production speed;r;;\cite{Kinast_2021}
+robot parameters;r;;\cite{}
+robot status;r;;\cite{Johnson_2022}
+running data;r;;\cite{Fang_2019}
+set of machines;r;;\cite{Li_2020,Wang_2023}
+setup time of a product from family;r;;\cite{Bouazza_2021}
+setup times on each sp (machine);r;;\cite{Kardos_2021}
+shortest job first (sjf);r;;\cite{Bouazza_2017}
+status;r;;\cite{Jungbluth_2022}
+switching energy- total energy comsumption;r;;\cite{Caldeira_2020}
+tardiness;r;;\cite{Wu_2018}
+target vector;r;;\cite{Wan_2022}
